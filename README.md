@@ -25,3 +25,5 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![directives](images/directives.png)
 ### Les Directive Structurelles
 ![dir st](images/directivestrictirelles.png)
+### Les Directives d'Attributs
+![attributs](images/directiveattributs.png)

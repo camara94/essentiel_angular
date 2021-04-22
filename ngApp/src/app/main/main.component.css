@@ -6,3 +6,8 @@ p {
   background-color: none;
   border: 1px solid;
 }
+
+.hightligted {
+  background-color: lightgreen;
+  color: aliceblue;
+}
