@@ -19,3 +19,5 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![angularcli](images/anglarcli.png)
 ## Component en Angular
 ![component](images/component.png)
+## Les modules en angular
+![module](images/modules.png)
