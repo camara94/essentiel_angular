@@ -8,3 +8,14 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![frameworkvslibrairie](images/frameworkvslibrairie.png)
 ## Historique de JavaScript
 ![es6](images/historique.png)
+## ES6 et Angular
+![es61](images/es61.png)
+![es62](images/es62.png)
+![es63](images/es63.png)
+## Type en TypeScript
+![type en tsc](images/typeintypecript1.png)
+## Créer un projet Angulr
+![angular](images/creerunprojetangular.png)
+![angularcli](images/anglarcli.png)
+## Component en Angular
+![component](images/component.png)
