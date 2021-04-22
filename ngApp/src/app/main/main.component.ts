@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class MainComponent implements OnInit {
 
   user: string = "CAMARA Laby Damaro";
+  noms: string[] = ['Camara', 'Kïta', 'Traoré', 'Touré', 'Cissé', 'Syllah', 'Soumah'];
   constructor() { }
 
   ngOnInit(): void {

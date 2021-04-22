@@ -23,3 +23,5 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![module](images/modules.png)
 ## Les Directives en Angular
 ![directives](images/directives.png)
+### Les Directive Structurelles
+![dir st](images/directivestrictirelles.png)
