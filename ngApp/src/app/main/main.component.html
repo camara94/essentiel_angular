@@ -2,7 +2,7 @@
     <li *ngFor="let nom of noms; let i=index" [ngClass]="{'hightligted': i%2 ===0}">Hello {{nom}}</li>
 </ol>
 <p>
-    Hello {{ user }}
+    Hello {{ user | titlecase }}
 </p>
 <img  src="assets/grandfather.jpg"/>
 <button (click)="userClick()">Clicked</button>

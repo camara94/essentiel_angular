@@ -27,3 +27,5 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![dir st](images/directivestrictirelles.png)
 ### Les Directives d'Attributs
 ![attributs](images/directiveattributs.png)
+## Les Pipes en Angular
+![pipes](images/pipe.png)
