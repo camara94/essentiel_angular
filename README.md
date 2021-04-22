@@ -6,3 +6,5 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![framework](images/definitioçnframework.png)
 ## Framework vs Librairie
 ![frameworkvslibrairie](images/frameworkvslibrairie.png)
+## Historique de JavaScript
+![es6](images/historique.png)
