@@ -29,3 +29,5 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![attributs](images/directiveattributs.png)
 ## Les Pipes en Angular
 ![pipes](images/pipe.png)
+## Routage en Angular
+![les routes](images/routage.png)
