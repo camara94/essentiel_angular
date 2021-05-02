@@ -42,3 +42,7 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![arch2](images/archfrontbackend4.png)
 ## Type de de développement
 ![ar](images/archfrontbackend5.png)
+## Webpack
+![webpack](images/webpack.png)
+### Type de compilation
+![typec](images/compilationwebpack1.png)
