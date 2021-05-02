@@ -38,3 +38,7 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ## Architecture Front et Back End
 ![frontback](images/archfrontbackend.png)
 ![arch2](images/archfrontbackend2.png)
+![arch2](images/archfrontbackend3.png)
+![arch2](images/archfrontbackend4.png)
+## Type de de développement
+![ar](images/archfrontbackend5.png)
