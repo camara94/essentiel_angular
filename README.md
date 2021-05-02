@@ -31,3 +31,10 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![pipes](images/pipe.png)
 ## Routage en Angular
 ![les routes](images/routage.png)
+## Formulaires Angular
+![form](images/formte.png)
+### Declarer un formulaire
+![form](images/forms2.png)
+## Architecture Front et Back End
+![frontback](images/archfrontbackend.png)
+![arch2](images/archfrontbackend2.png)
