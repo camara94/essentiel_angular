@@ -47,3 +47,13 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ### Type de compilation
 ![typec](images/compilationwebpack1.png)
 ![typeoa](images/jot.png)
+## TypeScript
+![ts](images/ts.png)
+### Avantage de TypeScript
+![avts](images/avantagets1.png)
+### Utilisation de TypeScript
+![usecasts](images/usecasts.png)
+###Transpilation
+![trans](images/transpilationts.png)
+### Version JavaScript
+![jsv](images/versionjs.png)
