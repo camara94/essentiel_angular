@@ -46,3 +46,4 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![webpack](images/webpack.png)
 ### Type de compilation
 ![typec](images/compilationwebpack1.png)
+![typeoa](images/jot.png)
