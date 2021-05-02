@@ -57,3 +57,6 @@ Découvrez comment augmenter l'efficacité de vos développements JavaScript, cr
 ![trans](images/transpilationts.png)
 ### Version JavaScript
 ![jsv](images/versionjs.png)
+
+### Declaration de variable en TypeScript
+![tsc](images/declaration.png)
